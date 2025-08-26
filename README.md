@@ -1,3 +1,3 @@
-# Sprint_1
-Sprint_1 practice
-Changed in readme file
+<h1>Git Practice</h1>
+This repository is created to practice 
+
