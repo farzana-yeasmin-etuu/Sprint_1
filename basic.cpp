@@ -2,20 +2,25 @@
 using namespace std;
 int main()
 {
-   int n,fact=1;
+   int n,a=0,b=1,c=0;
    cin>>n;
-   if(n<0)
-   {
-    cout<<"error";
-   }
-   else{
-    for(int i=1;i<=n;i++)
+  for(int i=1;i<=n;i++)
+  {
+    if(i==1)
     {
-        fact*=i;
+        cout<<a<<", ";
     }
-    cout<<n<<" factorial = "<<fact;
-   }
+    if(i==2)
+    {
+        cout<<b<<", ";
+    }
 
+    else
+    c=a+b;
+    a=b;
+    b=c;
+    cout<<c<<","
+  }
 
     return 0;
 }
