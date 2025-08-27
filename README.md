@@ -1,3 +1,2 @@
-# Sprint_1
-Sprint_1 practice
-Changed in readme file
+This repository showcases my proficiency in **Git version control** through a series of tasks and operations, ranging from basic usage to more advanced techniques.
+
